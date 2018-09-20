@@ -10,3 +10,9 @@
 # Example
 
 ![](https://github.com/trilliwon/Alfred-Workflow-Bear/blob/master/bear.gif?raw=true)
+
+
+# Todo
+
+- Append text to existing notes.
+- Figure out multi-word tags.
